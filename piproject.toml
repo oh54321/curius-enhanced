@@ -1,0 +1,2 @@
+[project.scripts]
+curius = "scripts.run_cli:main"

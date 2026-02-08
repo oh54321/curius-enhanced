@@ -1,0 +1,29 @@
+Screen {
+    align: center middle;
+}
+
+#box {
+    width: 60;
+    height: 18;
+    border: round #5f87ff;
+    padding: 1 2;
+}
+
+.pane_title {
+    margin-bottom: 1;
+    text-style: bold;
+    text-wrap: wrap;
+}
+
+ListView {
+    height: 1fr;
+    border: solid #444444;
+}
+
+ListView ListItem {
+    height: auto;
+}
+
+ListView ListItem > Label {
+    text-wrap: wrap;
+}
