@@ -1,9 +1,0 @@
-{
-    "python-envs.defaultEnvManager": "ms-python.python:conda",
-    "python-envs.defaultPackageManager": "ms-python.python:conda",
-    "python-envs.pythonProjects": [],
-    "python.linting.pylintEnabled": false,
-    "python.linting.pylintUseMinimalCheckers": false,
-    "python.linting.lintOnSave": false,
-    "python.linting.enabled": false
-}
